@@ -1,0 +1,4 @@
+Sitemap: https://ppa21102.github.io/sitemap.xml
+
+User-agent: *
+Disallow: /css/
